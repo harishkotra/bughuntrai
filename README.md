@@ -5,6 +5,7 @@ BugHuntr.ai is an AI-powered smart contract security analysis tool built on AIA 
 ## Front-end Application Repo
 
 Here's the front-end application [repo](https://github.com/harishkotra/bughuntrai-frontend)
+
 [Here's the deployed front-end application for this project](https://bughuntrai.vercel.app/)
 
 ## Features 🚀
